@@ -1,0 +1,16 @@
+{"vendor":{"plugins/wc-cash-on-pick-up":"1.1.2"},
+"admin-config":{
+"events-manager":{
+	"pages": { "admin.php": "page=wc-settings&tab=checkout&section=wc_gateway_cash_on_pickup" },
+	"forms": {
+		"mainform": {
+			"fields": {
+				"woocommerce_cop_title": [],
+				"woocommerce_cop_description": [],
+				"woocommerce_cop_instructions": []
+			}
+		}
+	}
+}
+}
+}
