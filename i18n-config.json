@@ -1,6 +1,6 @@
 {"vendor":{"plugins/wc-cash-on-pick-up":"1.1.2"},
 "admin-config":{
-"events-manager":{
+"wc-settings":{
 	"pages": { "admin.php": "page=wc-settings&tab=checkout&section=wc_gateway_cash_on_pickup" },
 	"forms": {
 		"mainform": {
