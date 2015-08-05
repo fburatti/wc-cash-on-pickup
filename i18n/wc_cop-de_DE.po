@@ -1,0 +1,117 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Cash On Pickup v1.1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-20 12:10:49+0000\n"
+"Last-Translator: Adem Oezen <grafixwebseo@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/class.wc-cop.php:43
+#: classes/class.wc-cop.php:103
+#@ wc_cop
+msgid "Cash on pickup"
+msgstr "Barzahlung bei Abholung"
+
+#: classes/class.wc-cop.php:44
+#@ wc_cop
+msgid "Place order"
+msgstr "Kaufen"
+
+#: classes/class.wc-cop.php:70
+#@ wc_cop
+msgid "Cash on Pickup"
+msgstr "Barzahlung bei Abholung"
+
+#: classes/class.wc-cop.php:71
+#@ wc_cop
+msgid "Have your customers pay with cash (or by other means) on pickup."
+msgstr "Lassen Sie Ihre Kunden direkt bei Abholung vor Ort, mit Bargeld oder anderen Zahlungsweisen bezahlen."
+
+#: classes/class.wc-cop.php:94
+#@ wc_cop
+msgid "Enable/Disable"
+msgstr "Aktivieren/ Deaktivieren"
+
+#: classes/class.wc-cop.php:96
+#@ wc_cop
+msgid "Enable Cash On Pickup"
+msgstr "Aktivieren Sie Barzahlung bei Abholung"
+
+#: classes/class.wc-cop.php:100
+#@ wc_cop
+msgid "Title"
+msgstr "Titel"
+
+#: classes/class.wc-cop.php:102
+#@ wc_cop
+msgid "This controls the title which the user sees during checkout"
+msgstr "Hier legen Sie den Titel fest, welchen der Kunde während des Bezahlvorgangs in den Zahlungsarten sieht."
+
+#: classes/class.wc-cop.php:107
+#@ wc_cop
+msgid "Customer Message"
+msgstr "Beschreibung"
+
+#: classes/class.wc-cop.php:109
+#@ wc_cop
+msgid "Pay your order in cash as you pick it up at our store."
+msgstr "Bezahlen Sie Ihre Bestellung direkt bei Abholung vor Ort, in Bar oder anderen Zahlungsarten."
+
+#: classes/class.wc-cop.php:112
+#@ wc_cop
+msgid "Instructions"
+msgstr "Anweisung / Hinweis"
+
+#: classes/class.wc-cop.php:114
+#@ wc_cop
+msgid "Instructions that will be added to the thank you page."
+msgstr "Anweisungen, Hinweise etc., werden der Danke-Seite und in die E-Mails hinzugefügt."
+
+#: classes/class.wc-cop.php:115
+#@ wc_cop
+msgid "Pay with cash on pickup at [Store address]."
+msgstr ""
+"Bitte zahlen Sie Ihre Bestellung direkt bei Abholung vor Ort, in Bar oder anderen Zahlungsarten.\n"
+"\n"
+"[Adresse hinzufügen]"
+
+#: classes/class.wc-cop.php:118
+#@ wc_cop
+msgid "Enable for shipping methods"
+msgstr "Für bestimmte Versandarten aktivieren"
+
+#: classes/class.wc-cop.php:123
+#@ wc_cop
+msgid "If COP is only available for certain methods, set it up here. Leave blank to enable for all methods."
+msgstr "Falls Barzahlung bei Abholung (COP) nur für bestimmte Versandmethoden verfügbar ist, legen Sie dies hier fest. Andernfalls frei lassen, um es für alle  Versandmethoden zu aktivieren."
+
+#: classes/class.wc-cop.php:191
+#@ wc_cop
+msgid "Awaiting cash payment"
+msgstr "Warten auf Barzahlung"
+
+#: wc-cash-on-pickup.php:70
+#@ wc_cop
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: wc-cash-on-pickup.php:72
+#@ wc_pgec
+#@ wc_cop
+msgid "Donate"
+msgstr "Spenden"
+
